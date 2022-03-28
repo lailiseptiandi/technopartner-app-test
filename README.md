@@ -14,8 +14,6 @@ DB_PASSWORD=password (jika ada)
 
 3. JALANKAN,
 
-# composer install
-
 composer install
 
 # Lalu jalankan
